@@ -50,7 +50,7 @@ of this happening I have bounded the velocity of each cell.
 ```
 
 these bound the velocity for the y and x direction
-although I don't think this is the issue I have found out that
+although I don't think this is the issue. I have found that
 it reduces the probability of the simulation crashing.
 
 The issue might stem from the SDL library itself with the rendering of each cell.
