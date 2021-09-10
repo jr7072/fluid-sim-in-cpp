@@ -1,7 +1,6 @@
 # fluid-sim-in-cpp
 
 ## Table of Contents
---
 + overview
 + technologies
 + setup
