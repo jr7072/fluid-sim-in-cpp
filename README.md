@@ -10,6 +10,8 @@ This is a fluid simulation based on the papers of Mike Ash (link below). It is p
 I also added a visual render using the SDL library. The simulation written is in two dimensions the paper written by Mike Ash represents
 a three dimensional simulation.
 
+Mike Ash's paper - https://mikeash.com/pyblog/fluid-simulation-for-dummies.html
+
 ## Technologies
 1. C++ 11
 2. SDL Library
